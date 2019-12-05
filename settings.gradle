@@ -1,0 +1,2 @@
+include ':app', ':home_module', ':user_module', ':square_module', ':message_module', ':base_module', ':login_module', ':picture_library', ':ucrop'
+rootProject.name='StuSauce'
